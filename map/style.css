@@ -1,0 +1,8 @@
+html,body{height: 100%;padding: 0;margin: 0;}
+a:hover{color: #000;}
+.crosshair {position: absolute;z-index: 9;top:50%;left:50%;margin:-16px 0 0 -16px;width:32px;height:32px;}
+#search{position: absolute;left: 50px;top: 0;z-index: 2;padding: 10px;}
+#info{position: absolute;left: 0;bottom: 0;z-index: 2;background-color: #ffffff95;padding: 10px;width: 300px;text-align: center;font: 14px/1.5em consolas, sans-serif;}
+#map{height: 100%;width: 100%;background-image:url(bg.gif);z-index: 1;}
+#zoom{color: #0078A8;padding-right: 10px;font: 14px/2em sans-serif;}
+#attribution{padding: 10px;font: 14px/2em sans-serif;}
